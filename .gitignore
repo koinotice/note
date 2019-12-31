@@ -1,0 +1,14 @@
+node_modules/*
+.DS_Store
+.env
+.env.staging
+Desktop.ini
+Thumbs.db
+*.log
+compiled/*
+dist/*
+.cache
+app/package.json
+app/package-lock.json
+app/node_modules/*
+secrets
